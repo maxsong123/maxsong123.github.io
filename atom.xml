@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://maxsong123.github.io/atom.xml" rel="self"/>
   <link href="http://maxsong123.github.io/"/>
-  <updated>2014-07-06T14:11:29-07:00</updated>
+  <updated>2014-07-06T23:33:39-07:00</updated>
   <id>http://maxsong123.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post!]]></title>
+    <link href="http://maxsong123.github.io/blog/2014/07/06/first-post/"/>
+    <updated>2014-07-06T23:22:02-07:00</updated>
+    <id>http://maxsong123.github.io/blog/2014/07/06/first-post</id>
+    <content type="html"><![CDATA[<p>This here is my first octopress post! I wonder how easy it is to use, and
+how to do different types of formatting. I guess as I add more to this
+post, it will generate more interesting things below.</p>
+
+<p>To generate markup &ndash; how do i insert a link?
+<a href="http://maxsong123.github.io/blog/2014/07/06/first-post/">this is a link</a></p>
+]]></content>
+  </entry>
   
 </feed>
